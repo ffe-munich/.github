@@ -1,9 +1,9 @@
 
 # About us
+The **Forschungsstelle für Energiewirtschaft e.V. (FfE e.V.)** has been one of the leading institutions in energy research and consulting in Germany for over 75 years. With an interdisciplinary team of more than 70 experts, we develop practical solutions to the challenges of the energy sector. Our non-profit organization, with offices in Munich and Berlin, provides scientifically grounded, independent, and technology-neutral answers for shaping the energy system of the future. Our work is based on quantitative, techno-economic analyses and scientific methods. 
 
-We are the **FfE** (**Forschungsstelle für Energiewirtschaft**)
-As a non-profit and independent organization, we provide guidance and support in 
-shaping a sustainable energy system. More info on our [website](https://www.ffe.de/en/)
+
+More info on our [website](https://www.ffe.de/en/)
 
 # Overview
    
