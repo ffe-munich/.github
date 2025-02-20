@@ -18,5 +18,8 @@ shaping a sustainable energy system. More info on our [website](https://www.ffe.
    
 ## Open Data 
 
+The FfE Open Data Portal offers an overview of free datasets for modelling energy demand and generation. The datasets are based on FfE projects, some of them have been funded by public resources.
+
+[FfE Open Data Portal](https://opendata.ffe.de/)
 
 ## Other
